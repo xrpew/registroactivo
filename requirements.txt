@@ -1,0 +1,6 @@
+httpx
+uvicorn[standard]
+fastapi[all]
+sqlalchemy
+psycopg2-binary
+pyzbar
